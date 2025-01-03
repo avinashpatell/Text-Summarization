@@ -111,5 +111,3 @@ python3 Text-Summarizer.py
 - No known bugs. Summary can't be as perfect as humans can do.
 - Audio feature will be added soon, so that you can listen the summary too if you want.
 
-
-## Dev :- Prakash Gupta
